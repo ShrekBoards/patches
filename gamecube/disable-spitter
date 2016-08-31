@@ -1,0 +1,8 @@
+# G2RE52 - Shrek SuperSlam
+
+[ActionReplay]
+
+[Gecko]
+# General Codes
+$Disable Spitters (Slam Events) [kirby]
+0411DCD0 60000000
